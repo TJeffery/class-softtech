@@ -2,7 +2,7 @@
 
 import sys
 import string
-
+#Hello world
 words = sys.stdin.read().split()
 d = dict()
 for word in words:
